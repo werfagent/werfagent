@@ -6,4 +6,4 @@
                           |___/             
 ```
 
-(Werf AI Agent)[https://werfagent.com]
+[Werf AI Agent](https://werfagent.com)
