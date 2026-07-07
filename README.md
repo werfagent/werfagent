@@ -3,7 +3,7 @@
 Open-source AI coding agent.
 
 - **Website:** [werfagent.com](https://werfagent.com)
-- **Source:** [werfagent/werfagent](https://github.com/werfdesktop/werfdesktop)
+- **Source:** [WerfDesktop](https://github.com/werfdesktop/werfdesktop)
 
 ## Overview
 
